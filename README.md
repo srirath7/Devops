@@ -1,28 +1,46 @@
-# Devops
+#Devops
 
-#After creating first repository
+##** After creating first repository **
 
-#mkdir Devops
+###mkdir Devops
 
-#cd Dq
+###cd Dq
 
-#cd Devops
+###cd Devops
 
-#ls
+###ls
 
-#echo "# Devops" >> README.md
+###echo "# Devops" >> README.md
 
-#git init
+###git init
 
-#git add .
+###git add .
 
-#git commit -m "1st commit"
+###git commit -m "1st commit"
 
-#git branch -M main
+###git branch -M main
 
-#git remote add origin https://github.com/srirath7/Devops.git
+###git remote add origin https://github.com/srirath7/Devops.git
 
-#git push
+###git push
 
-#git push -u origin main
+###git push -u origin main
 
+
+##Process flow
+
+###git -VCS
+
+###github-DVCM
+
+###jenkins-CI
+
+###maven-build tool
+
+###ansible-configuration and deployment tool
+
+###Docker-containerization tool
+
+###kubernetes-containerization orchestration tool
+
+###AWS - setup all
